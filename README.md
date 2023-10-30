@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @gabrielekarra, 23yo
-- 👀 I’m interested in software engineer and data science
-- 🌱 I’m a student in Computer Science and Engineering at Politecnico di Milano, path "Software Engineering for Complex System"
-- 📫 Write to me at gabrielekarra@hotmail.it
-
+- 👋 Hi there! I'm @gabrielekarra, a 24-year-old enthusiast with a strong passion for software engineering and data science.
+- 💻 I'm currently a student pursuing a degree in Computer Science and Engineering at Politecnico di Milano, specializing in "Software Engineering for Complex Systems."
+- 🔍 I thrive on crafting innovative software solutions and delving into data analysis to extract meaningful insights. I'm constantly seeking new challenges and learning opportunities.
+- 📧 Feel free to reach out to me at gabriekarra@hotmail.it to discuss exciting projects, potential collaborations, or just to share your ideas.
