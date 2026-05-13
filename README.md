@@ -1,16 +1,11 @@
 ### :boy: About me:
-- 👋 Hi there! I'm @gabrielekarra, a 24-year-old enthusiast with a strong passion for software engineering and data science. Welcome to my GitHub! 🚀
+- 👋 Hi there! I'm @gabrielekarra, a 26-year-old enthusiast with a strong passion for software engineering and AI infra. Welcome to my GitHub! 🚀
 - 🔍 I thrive on crafting innovative software solutions and delving into data analysis to extract meaningful insights. I'm constantly seeking new challenges and learning opportunities.
 - 🕛 Obsessed with time management
 
 ### 🎓 Education:
-- At 2° years of Master’s degree in `Computer Science and Engineering` at `Politecnico di Milano` specializing in `Software Engineering for Complex Systems`.
+- Master’s degree in `Computer Science and Engineering` at `Politecnico di Milano` specializing in `Software Engineering for Complex Systems`.
 - Bachelor's degree in `Computer Engineering` at `Università di Palermo`
-
-### :pushpin: **Projects:**
- - [Accelerate the sparse graph population algorithm for Oracle Contest at Politecnico di Milano](https://github.com/gabrielekarra/CSR-Oracle-Contest-at-PoliMI)
- - Top 2 at [ICSE 2024 IEEE SCORE Contest ](https://conf.researchr.org/track/icse-2023/icse-2023-score-2023?#event-overview) - [Research Environment for reading papers](https://github.com/gabrielekarra/PDFL-PDFLegacy)
- - [IOT - Lightweight publish-subscribe application protocol](https://github.com/gabrielekarra/Lightweight-publish-subscribe-application-protocol)
 
 ### ✉️ Connect with me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salvatoregabrielekarra)
