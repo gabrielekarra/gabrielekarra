@@ -1,4 +1,4 @@
-### :boy: About me:
+### About me:
 - 👋 Hi there! I'm @gabrielekarra, a 26-year-old enthusiast with a strong passion for software engineering and AI infra. Welcome to my GitHub! 🚀
 - 🔍 I thrive on crafting innovative software solutions and delving into data analysis to extract meaningful insights. I'm constantly seeking new challenges and learning opportunities.
 - 🕛 Obsessed with time management
